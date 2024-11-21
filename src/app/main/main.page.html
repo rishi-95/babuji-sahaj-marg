@@ -21,57 +21,55 @@
 
   <ion-grid>
     <ion-row>
-      <ion-col>
-        <ion-card [routerLink]="'/home/' + 'LalajiBooks'">
+      <!-- First card: Full width -->
+      <ion-col size="12">
+        <ion-card [routerLink]="'/home/' + 'LalajiBooks'" class="minimal-card">
           <img alt="LalajiBooks" src="https://babujisahajmarg.in/images/serv-01.png" />
           <ion-card-header>
             <ion-card-title>LalajiBooks</ion-card-title>
             <ion-card-subtitle>Truth_Eternal || Aroma-of-Divine-Duality</ion-card-subtitle>
           </ion-card-header>
-
         </ion-card>
       </ion-col>
-
     </ion-row>
+
     <ion-row>
-      <ion-col>
-        <ion-card [routerLink]="'/home/' + 'BabujiBooks'">
+      <!-- 2 cards per row -->
+      <ion-col size="6">
+        <ion-card [routerLink]="'/home/' + 'BabujiBooks'" class="minimal-card">
           <img alt="Babujibooks" src="https://babujisahajmarg.in/images/babujibooks.jpg" />
           <ion-card-header>
             <ion-card-title>Babuji books</ion-card-title>
-            <ion-card-subtitle> Reality_at_Dawn || Towards-Infinity ||
-              Efficacity_of_Raja_Yoga</ion-card-subtitle>
+            <ion-card-subtitle>Reality_at_Dawn || Towards-Infinity || Efficacity_of_Raja_Yoga</ion-card-subtitle>
           </ion-card-header>
-
-
         </ion-card>
       </ion-col>
-      <ion-col>
-        <ion-card [routerLink]="'/home/' + 'BabujiAutobiography'">
-          <img alt="Babuji Autobiographys" src="https://babujisahajmarg.in/images/serv-05.png" />
+
+      <ion-col size="6">
+        <ion-card [routerLink]="'/home/' + 'BabujiAutobiography'" class="minimal-card">
+          <img alt="Babuji Autobiography" src="https://babujisahajmarg.in/images/serv-05.png" />
           <ion-card-header>
             <ion-card-title>Babuji Autobiography</ion-card-title>
-            <ion-card-subtitle>including telugu autobiography</ion-card-subtitle>
+            <ion-card-subtitle>including Telugu autobiography</ion-card-subtitle>
           </ion-card-header>
         </ion-card>
       </ion-col>
-
     </ion-row>
 
     <ion-row>
-      <ion-col>
-        <ion-card [routerLink]="'/home/' + 'BabujiAudioBooks'">
-          <img alt="Babuji Audio books" src="https://babujisahajmarg.in/images/serv-03.png" />
+      <!-- 2 cards per row -->
+      <ion-col size="6">
+        <ion-card [routerLink]="'/home/' + 'BabujiAudioBooks'" class="minimal-card">
+          <img alt="Babuji Audio Books" src="https://babujisahajmarg.in/images/serv-03.png" />
           <ion-card-header>
-            <ion-card-title>Babuji Audio books</ion-card-title>
-            <ion-card-subtitle>Divine-Light || Intercommunion || Constant-Remembrance ||
-              Relationship-with-Master</ion-card-subtitle>
+            <ion-card-title>Babuji Audio Books</ion-card-title>
+            <ion-card-subtitle>Divine-Light || Intercommunion || Constant-Remembrance || Relationship-with-Master</ion-card-subtitle>
           </ion-card-header>
         </ion-card>
       </ion-col>
-      
-      <ion-col>
-        <ion-card [routerLink]="'/home/' + 'BabujiAssociatesBooks'">
+
+      <ion-col size="6">
+        <ion-card [routerLink]="'/home/' + 'BabujiAssociatesBooks'" class="minimal-card">
           <img alt="Babuji Associates Books" src="https://babujisahajmarg.in/images/serv-04.png" />
           <ion-card-header>
             <ion-card-title>Babuji Associates Books</ion-card-title>
@@ -79,75 +77,39 @@
           </ion-card-header>
         </ion-card>
       </ion-col>
+    </ion-row>
 
-      <ion-col>
-        <ion-card [routerLink]="'/home/' + 'BabujiAudio'">
-          <img alt="Babuji Associates Books" src="https://babujisahajmarg.in/images/b 1.png" />
+    <ion-row>
+      <!-- 2 cards per row -->
+      <ion-col size="6">
+        <ion-card [routerLink]="'/home/' + 'BabujiAudio'" class="minimal-card">
+          <img alt="Babuji Audio & Speech" src="https://babujisahajmarg.in/images/b 1.png" />
           <ion-card-header>
             <ion-card-title>Babuji Audio & Speech</ion-card-title>
           </ion-card-header>
         </ion-card>
       </ion-col>
-      
-      <ion-col>
-        <ion-card [routerLink]="'/home/' + 'RESEARCH BOOKS & OTHER BOOKS'">
-          <img alt="Babuji Associates Books" src="https://babujisahajmarg.in/images/b 2.png" />
+
+      <ion-col size="6">
+        <ion-card [routerLink]="'/home/' + 'RESEARCH BOOKS & OTHER BOOKS'" class="minimal-card">
+          <img alt="Research Books & Other Books" src="https://babujisahajmarg.in/images/b 2.png" />
           <ion-card-header>
             <ion-card-title>RESEARCH BOOKS & OTHER BOOKS</ion-card-title>
           </ion-card-header>
         </ion-card>
       </ion-col>
-      
-      <ion-col>
-        <ion-card [routerLink]="'/home/' + 'Videos'">
-          <img alt="Babuji Associates Books" src="https://babujisahajmarg.in/images/b 3.png" />
+    </ion-row>
+
+    <ion-row>
+      <!-- 2 cards per row -->
+      <ion-col size="6">
+        <ion-card [routerLink]="'/home/' + 'Videos'" class="minimal-card">
+          <img alt="Videos" src="https://babujisahajmarg.in/images/b 3.png" />
           <ion-card-header>
             <ion-card-title>Videos</ion-card-title>
           </ion-card-header>
         </ion-card>
       </ion-col>
-      
-      <!-- <ion-col>
-        <ion-card>
-          <img alt="Babuji Audio books" src="https://babujisahajmarg.in/images/serv-03.png" />
-          <ion-card-header>
-            <ion-card-title>Babuji Audio books</ion-card-title>
-            <ion-card-subtitle>DSaint Kasturi || Spiritual correspondence with Babuji</ion-card-subtitle>
-          </ion-card-header>
-        </ion-card>
-      </ion-col> -->
     </ion-row>
-
   </ion-grid>
-
-<!--   <ion-list style="padding: 15px;">
-    <ion-item [routerLink]="'/home/' + 'BabujiAudio'" [button]="true" [detail]="false">
-      <ion-icon style="margin-right: 10px;" name="document-outline"></ion-icon>
-      <ion-label class="ion-text-wrap">
-        Babuji Audio & Speech
-      </ion-label>
-    </ion-item>
-
-    <ion-item [routerLink]="'/home/' + 'RESEARCH BOOKS & OTHER BOOKS'" [button]="true" [detail]="false">
-      <ion-icon style="margin-right: 10px;" name="document-outline"></ion-icon>
-      <ion-label class="ion-text-wrap">
-        RESEARCH BOOKS & OTHER BOOKS
-      </ion-label>
-    </ion-item>
-
-    <ion-item [routerLink]="'/home/' + 'Videos'" [button]="true" [detail]="false">
-      <ion-icon style="margin-right: 10px;" name="document-outline"></ion-icon>
-      <ion-label class="ion-text-wrap">
-        Videos
-      </ion-label>
-    </ion-item>
-
-  </ion-list> -->
-
-
-
-
-  <!-- <ion-list>
-    <app-message *ngFor="let message of getMessages()" [message]="message"></app-message>
-  </ion-list> -->
 </ion-content>
