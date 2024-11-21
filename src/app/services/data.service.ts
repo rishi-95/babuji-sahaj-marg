@@ -3935,6 +3935,26 @@ export class DataService {
  {
   "name": "125th Birthday",
   "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/125.mp4"
+ },
+ {
+  "name": "సహజమార్గ ఆధ్యాత్మిక విజ్ఞాన సర్వస్వం-2",
+  "url": "https://babujisahajmarg.in/assests/Books/Esotericism/New%202024/%E0%B0%B8%E0%B0%B9%E0%B0%9C%E0%B0%AE%E0%B0%BE%E0%B0%B0%E0%B1%8D%E0%B0%97%20%E0%B0%86%E0%B0%A7%E0%B1%8D%E0%B0%AF%E0%B0%BE%E0%B0%A4%E0%B1%8D%E0%B0%AE%E0%B0%BF%E0%B0%95%20%E0%B0%B5%E0%B0%BF%E0%B0%9C%E0%B1%8D%E0%B0%9E%E0%B0%BE%E0%B0%A8%20%E0%B0%B8%E0%B0%B0%E0%B1%8D%E0%B0%B5%E0%B0%B8%E0%B1%8D%E0%B0%B5%E0%B0%82-2.pdf"
+ },
+ {
+  "name": "సహజమార్గ పద్ధతి-పరిపూర్ణత విధానం-1",
+  "url": "https://babujisahajmarg.in/assests/Books/Esotericism/New%202024/%E0%B0%B8%E0%B0%B9%E0%B0%9C%E0%B0%AE%E0%B0%BE%E0%B0%B0%E0%B1%8D%E0%B0%97%20%E0%B0%AA%E0%B0%A6%E0%B1%8D%E0%B0%A7%E0%B0%A4%E0%B0%BF-%E0%B0%AA%E0%B0%B0%E0%B0%BF%E0%B0%AA%E0%B1%82%E0%B0%B0%E0%B1%8D%E0%B0%A3%E0%B0%A4%20%E0%B0%B5%E0%B0%BF%E0%B0%A7%E0%B0%BE%E0%B0%A8%E0%B0%82-1.pdf"
+ },
+ {
+  "name": "Divine Wave of Ultimate Reality",
+  "url": "https://babujisahajmarg.in/assests/Books/Kasturi%20New%20Books/Divine%20Wave%20of%20Ultimate%20Reality.pdf"
+ },
+ {
+  "name": "అంతిమ సత్యపు మధుర స్వరాలు",
+  "url": "https://babujisahajmarg.in/assests/Books/Kasturi%20New%20Books/%E0%B0%85%E0%B0%82%E0%B0%A4%E0%B0%BF%E0%B0%AE%20%E0%B0%B8%E0%B0%A4%E0%B1%8D%E0%B0%AF%E0%B0%AA%E0%B1%81%20%E0%B0%AE%E0%B0%A7%E0%B1%81%E0%B0%B0%20%E0%B0%B8%E0%B1%8D%E0%B0%B5%E0%B0%B0%E0%B0%BE%E0%B0%B2%E0%B1%81.pdf"
+ },
+ {
+  "name": "నిరాడంబరత మాటున",
+  "url": "https://babujisahajmarg.in/assests/Books/Kasturi%20New%20Books/%E0%B0%A8%E0%B0%BF%E0%B0%B0%E0%B0%BE%E0%B0%A1%E0%B0%82%E0%B0%AC%E0%B0%B0%E0%B0%A4%20%E0%B0%AE%E0%B0%BE%E0%B0%9F%E0%B1%81%E0%B0%A8.pdf"
  }
 ]
 
